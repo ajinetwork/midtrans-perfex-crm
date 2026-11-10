@@ -3,9 +3,11 @@
 defined('BASEPATH') or exit('No direct script access allowed');
 
 /*
-Module Name: Midtrans Payment Gateway
-Description: Terima pembayaran invoice Perfex CRM melalui Midtrans Snap (VA, e-wallet, QRIS, kartu kredit, convenience store, dll).
+Module Name: Midtrans Payment Gateway for Perfex CRM
+Description: Modul pembayaran Midtrans (Snap) untuk invoice Perfex CRM
 Version: 1.0.0
+Author: ajinetwork
+Author URI: https://github.com/ajinetwork
 Requires at least: 2.3.*
 */
 
